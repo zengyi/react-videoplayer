@@ -5,3 +5,6 @@ React video player component where you can create a list of videos and select fr
 ### This application id clone from
 
 https://github.com/weibenfalk/hooks-videoplayer-starterfiles
+
+and YouTube:
+https://www.youtube.com/watch?v=iVRO0toVdYM
